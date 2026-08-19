@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Azym Ghaswala. I'm a recent business graduate pursuing a career in agentic AI solutions using Microsoft tools (Copilot Studio, Azure AI Foundry, Power Platform).
 <!--
 **aghaswala/aghaswala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
